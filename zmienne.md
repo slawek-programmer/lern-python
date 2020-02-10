@@ -7,7 +7,7 @@ Creating variables:
 2
 ```
 
-Dodawanie zmiennych
+Adding variables
 
 ```python
 >>> c = a + b # creating a new variable and adding to it the value from the result of adding a and b
