@@ -1,3 +1,5 @@
+# VARIABLES
+
 Creating variables:
 
 ```python
