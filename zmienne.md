@@ -1,17 +1,17 @@
-Tworzenie zmiennych:
+Creating variables:
 
 ```python
->>> a = 1 # tworzenie nowej zmiennej a i przypisanie 1
->>> b = 2 # tworzenie nowej zmiennnej b i przypisanie 2
->>> b #  pobranie wartości z zmiennej a
+>>> a = 1  # creating a new variable a and assigning 1
+>>> b = 2  # creating a new variable b and assigning 2
+>>> b  #  taking values from variable b
 2
 ```
 
 Dodawanie zmiennych
 
 ```python
->>> c = a + b # utworzenie nowej zmiennej i dodanie do niej wartości z wyniku dodawania a i b
->>> c #  pobranie wartości z zmiennej a
+>>> c = a + b # creating a new variable and adding to it the value from the result of adding a and b
+>>> c #  taking values from variable c
 3
 ```
 
